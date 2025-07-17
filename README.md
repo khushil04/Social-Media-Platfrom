@@ -1,2 +1,2 @@
 # Social-Media-Platfrom
-it is made up spring boot
+it is made up of spring boot
